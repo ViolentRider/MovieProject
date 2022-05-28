@@ -88,8 +88,7 @@ body{
     flex: 90%;
     width: 60%;
     overflow-y: auto;
-    color: black;
-    background-color: rgb(173, 170, 170);
+    background-color: black;
     border-radius: 5px ;
     }
     .column.film img{
