@@ -1,0 +1,2 @@
+rejestracja/login - js baza danych
+zakupy/koszyk - moga być plakaty do kupienia
