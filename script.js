@@ -41,3 +41,11 @@ document.getElementById("pulpFiction").innerHTML = `<img src="/okladki/pF.jpg"> 
 
 console.log(filmy.pulpFiction);
 
+const account = {
+    login: 'user',
+    password: 'userr'
+};
+console.log(account);
+let regist;
+account.login.push("")
+

@@ -20,6 +20,20 @@ body{
     float: left;
     padding: 10px;
 }
+.header object{
+    float: right;
+    padding: 10px;
+}
+.header button{
+    float: right;
+    padding: 15px;
+    background-color: #33cc33;
+    color: white;
+    border-radius: 12px;
+}
+.header button:hover{
+    background-color: red;
+}
 
 .container{
     display: -webkit-flex;
